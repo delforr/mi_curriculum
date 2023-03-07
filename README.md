@@ -1,8 +1,8 @@
-Hola , queria contarte que yo presente el proyecto el dia final  28/2 .
+Hola , queria contarte que presenté el proyecto el día final  28/2 .
 
-Luego agregaron 8 dias y lo modifique por que habia un problema entre mi css y el css que viene definido en bootstrap, decidi hacerlo todo con bootstrap y agregar algunas cosas que me faltaban.
+Luego agregaron 8 días y lo modifique porque había un problema entre mi css y el css que viene definido en bootstrap, decidí hacerlo todo con bootstrap y agregar algunas cosas que me faltaban.
 
-Ahora no puedo cambiar mi proyecto, dejo el link aqui abajo, espero sea tomado en cuenta, desde ya muchisimas gracias por esta gran oportunidad.
+Ahora no puedo cambiar mi proyecto, dejo el link aquí abajo, espero sea tomado en cuenta, desde ya muchisimas gracias por esta gran oportunidad.
 
 Delfor Reyes
 
